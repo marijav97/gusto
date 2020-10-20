@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"Wild Mushroom Arancini",
+        "picture": {
+            "src": "img/gallery/mushroom.jpg",
+            "alt": "Wild Mushroom Arancini"
+        },
+        "text":"Instructions",
+        "steps":  "1. Rehydrate the porcini mushrooms by covering them with boiling water in a small bowl. Leave them for 20 minutes while you start the risotto, then drain, reserving the water, and chop the porcini.<br/>2.Heat the oil and butter in a large pan. Cook the onions until translucent, then add the garlic and cook for a minute or so.<br/> 3.Add the arborio rice, stir, then add the fresh mushrooms and porcini and cook for a couple of minutes. Put the stock pot in a large measuring jug and dissolve in 1 litre of boiling water.<br/>4.Add the porcini soaking water to the rice (discard the last bit of liquid, which may be gritty), then the stock, a ladleful at a time, stirring constantly, and waiting until each is ladleful is absorbed before adding more. The rice needs to be properly cooked with no chalky interior. Stop adding the stock when no more can be absorbed.<br/>5.Stir the Parmesan through the risotto. Taste, and season. Spread out the risotto on a tray and leave to cool to room temperature. Mix in the mozzarella; chill.<br/>6.Roll the chilled risotto into ping-pong-sized balls – you should get about 28.<br/>7.Set up an assembly line. Dip each arancini first into the flour, then beaten egg, and finally the breadcrumbs.<br/>8.Heat the oil in a large deep pan to 180°C – or until a few crumbs dropped in start to sizzle. Cook the arancini in small batches for 4-5 minutes, submerging them in the oil until golden. Drain on kitchen paper, and sprinkle with salt before serving warm with some pesto for dipping."
+    },
+    {
+        "id":2,
+        "title":"Beef Lasagne",
+        "picture": {
+            "src": "img/gallery/lasagne.jpg",
+            "alt": "Beef Lasagne"
+        },
+        "text":"Instructions",
+        "steps":  "1.In a large pot over medium heat, add in ground sausage and ground beef. Use a spoon to break up the meat into small pieces. Add in onion and garlic and cook until meat is well browned, stirring constantly. Stir in sugar, fresh basil, fennel, oregano, 1/2 teaspoon salt, pepper, and 1/4 cup chopped parsley. Pour in crushed tomatoes, tomato paste, tomato sauce, and chicken broth. Stir well and bring to a simmer. Reduce heat to low and simmer 1-4 hours, stirring occasionally.<br/>2. Meanwhile, place lasagna noodles into the bottom of a pan. Pour hot tap water directly over the noodles, making sure the pasta is completely immersed in the water. Let them soak for 30 minutes, then drain and discard water.<br/>3. In a mixing bowl, combine ricotta cheese with egg, remaining 2 tablespoons parsley, 1/2 teaspoon salt, and nutmeg. Refrigerate until ready to assemble lasagna.<br/>4. Preheat oven to 375 degrees. Lightly grease a deep 9x13 pan.<br/>5.To assemble, spread about 1 cup of meat sauce in the bottom of the prepared pan. Place 4 noodles on top. Spread with 1/3 of the ricotta cheese mixture. Top with 1/4 of mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, then sprinkle with 1/4 cup parmesan cheese. Repeat layering two more times to create three complete layers. To finish, place a final layer of pasta, topped with another 1 cup of meat sauce to cover the pasta. Top with remaining mozzarella and Parmesan cheese. Cover loosely with aluminum foil.<br/>6. Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes to allow cheese to brown. Serve hot."
+    },
+    {
+        "id":3,
+        "title":"Bourbon-Pecan Tart",
+        "picture": {
+            "src": "img/gallery/pecantart.jpg",
+            "alt": "Bourbon-Pecan Tart"
+        },
+        "text":"Instructions",
+        "steps":  "1.Place crust in 10-inch tart pan with removable bottom; press crust into pan. Trim overhang. Chill crust 30 minutes.<br/>2.Preheat oven to 375°F. Line crust with foil; fill with dried beans. Bake until crust is set and pale golden, about 30 minutes. Remove foil and beans. Bake crust until golden brown, about 10 minutes. Place pan with crust on rimmed baking sheet.<br/>3.Meanwhile, using electric mixer, beat eggs and sugar in medium bowl. Beat in corn syrup. Add butter, bourbon, vanilla, and salt; beat until blended. Stir in pecans.<br/>4.Pour pecan filling into hot crust. Bake until center of filling is set, about 25 minutes. Cool tart on rack 1 hour; remove pan sides. Serve slightly warm or at room temperature. DO AHEAD Can be made 8 hours ahead. Rewarm slightly before serving, if desired."
+    }
+]
